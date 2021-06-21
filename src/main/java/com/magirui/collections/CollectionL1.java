@@ -1,4 +1,4 @@
-package com.magirui.deadlock;
+package com.magirui.collections;
 
 import java.util.HashSet;
 import java.util.LinkedHashMap;
